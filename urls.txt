@@ -1,0 +1,1 @@
+ course://web.backend?name="Дубик Денис"&group="ФЕІ-24с"&subgroup="Підгрупа 1"№dubikdenis
